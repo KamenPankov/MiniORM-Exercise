@@ -1,0 +1,9 @@
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\05 ORM Fundamentals\Exercise_MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\05 ORM Fundamentals\Exercise_MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\05 ORM Fundamentals\Exercise_MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\05 ORM Fundamentals\Exercise_MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\05 ORM Fundamentals\Exercise_MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\05 ORM Fundamentals\Exercise_MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\05 ORM Fundamentals\Exercise_MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\05 ORM Fundamentals\Exercise_MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\05 ORM Fundamentals\Exercise_MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
